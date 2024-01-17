@@ -34,7 +34,7 @@
 /* LAYOUT */
 
 /* TASK */
-.task {
+/*.task {
   padding: 1.5rem;
   background-color: #fff;
   border-radius: 5px;
@@ -65,7 +65,7 @@
   cursor: pointer;
 }
 
-.pill {
+/*.pill {
   display: inline-block;
   padding: 5px 12px;
   font-size: 14px;
@@ -73,7 +73,7 @@
   margin-right: 4px;
   margin-bottom: 6px;
   border-radius: 30px;
-}
+}*/
 
 .deadline {
   font-size: 12px;
@@ -87,10 +87,10 @@
 }
 
 .normal {
-  background-color: #ffd9d4;
+  background-color: #d4d7ff;
 }
 .urgent {
-  background-color: #d4d7ff;
+  background-color: #ffd9d4;
 }
 /* TASK */
 
